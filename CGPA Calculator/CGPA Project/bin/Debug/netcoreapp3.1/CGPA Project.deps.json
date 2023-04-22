@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CGPA Project/1.0.0": {
+        "runtime": {
+          "CGPA Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CGPA Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
